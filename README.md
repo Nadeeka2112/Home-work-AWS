@@ -1,8 +1,11 @@
 # Home-work-AWS
 
-Lab Lesson 1  Create your First Amazon EC2 instance(Linux)_Part 1
+First I visited the Cloud Academy web site and study about the lab sessions under AWS Certified Solutions Architect – Associate module.And also view videos and practically done it using Amazon web service.For that First I created a Amazon account and after login to it.After that I go through these actvities step by step.
 
-Amazon EC2 is the most famous AWS service and allows you to launch different types of cloud instances and pay for them with a pay-per-use approach. EC2 provides you with complete control of your computing resources and lets you run on Amazon’s computing environment. Amazon EC2 reduces the time required to obtain and boot new server instances to minutes. This allows you to quickly scale capacity, both up and down, as your computing requirements change. Amazon EC2 allows you to build and configure your instances as you like, from your operating system to your applications.
+
+*1.Lab Lesson 1  Create your First Amazon EC2 instance(Linux)_Part 1*
+
+Amazon EC2 is the most famous AWS service and allows users to launch different types of cloud instances and pay for them with a pay-per-use approach. EC2 provides users with complete control of  computing resources and lets  run on Amazon’s computing environment. Amazon EC2 reduces the time required to obtain and boot new server instances to minutes. This allows user to quickly scale capacity, both up and down, according to their computing requirements change. Furthermore it allows  to build and configure  instances as you like, from your operating system to your applications.
 
 Part 1 ===>>>  https://www.youtube.com/watch?v=C6b4Jo7KQPo
 
@@ -40,4 +43,4 @@ Lab Lesson 6 Create your first Amazon RDS Database
 
 Amazon Relational Database Service (Amazon RDS) is a web service that makes it easy to set up, operate, and scale a relational database in the cloud. You can migrate existing applications and tools that utilize a relational database to the Amazon Web Services because Amazon RDS offers access to the capabilities of a MySQL, Oracle, SQL Server, and the PostgreSQL database engine. Amazon RDS provides cost-efficient and resizable capacity while managing time-consuming database administration tasks. This efficiency frees you to focus on your applications and business.
 
-video===>>> 
+video===>>> https://www.youtube.com/watch?v=yrSrbVaFA1o
